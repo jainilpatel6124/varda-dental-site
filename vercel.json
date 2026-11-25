@@ -7,7 +7,7 @@
   "trailingSlash": false,
   "headers": [
     {
-      "source": "/images/(.*)",
+      "source": "/(.*).jpg",
       "headers": [
         {
           "key": "Cache-Control",
