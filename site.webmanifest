@@ -1,0 +1,10 @@
+{
+  "name": "Varda Dental Aesthetics & Implant Center",
+  "short_name": "Varda Dental",
+  "description": "Dental clinic in Sargasan, Gandhinagar, Gujarat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071428",
+  "theme_color": "#071428",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
